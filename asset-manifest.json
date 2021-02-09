@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lightbulbs-product-page/static/css/main.c04a1d2e.chunk.css",
+    "main.js": "/lightbulbs-product-page/static/js/main.195b25b0.chunk.js",
+    "main.js.map": "/lightbulbs-product-page/static/js/main.195b25b0.chunk.js.map",
+    "runtime-main.js": "/lightbulbs-product-page/static/js/runtime-main.815e2af4.js",
+    "runtime-main.js.map": "/lightbulbs-product-page/static/js/runtime-main.815e2af4.js.map",
+    "static/js/2.cb0429fa.chunk.js": "/lightbulbs-product-page/static/js/2.cb0429fa.chunk.js",
+    "static/js/2.cb0429fa.chunk.js.map": "/lightbulbs-product-page/static/js/2.cb0429fa.chunk.js.map",
+    "index.html": "/lightbulbs-product-page/index.html",
+    "static/css/main.c04a1d2e.chunk.css.map": "/lightbulbs-product-page/static/css/main.c04a1d2e.chunk.css.map",
+    "static/js/2.cb0429fa.chunk.js.LICENSE.txt": "/lightbulbs-product-page/static/js/2.cb0429fa.chunk.js.LICENSE.txt",
+    "static/media/lightbulb.dd13bad1.jpg": "/lightbulbs-product-page/static/media/lightbulb.dd13bad1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815e2af4.js",
+    "static/js/2.cb0429fa.chunk.js",
+    "static/css/main.c04a1d2e.chunk.css",
+    "static/js/main.195b25b0.chunk.js"
+  ]
+}
