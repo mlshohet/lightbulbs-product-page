@@ -1,0 +1,46 @@
+.header {
+	padding: 3vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .logo {
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+	.img-logo {
+		max-width: 20%;
+		height: auto;
+
+		@media screen and (max-width: 800px) {
+      		max-width: 15%;
+		}
+	}
+
+	.text-logo {
+		margin-left: 2px;
+		font-family: 'Ubuntu', sans-serif;
+    	font-size: 5vw;
+    	font-weight: bold;
+    	letter-spacing: -2px;
+		}
+	.energy {
+		font-weight: 200;
+	}
+}
+
+	.menu-icon {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 5vw;
+		margin-right: 30px;
+	}
+}
+
+
+

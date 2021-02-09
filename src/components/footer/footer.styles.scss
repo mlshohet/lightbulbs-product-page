@@ -1,0 +1,14 @@
+.footer {
+	background-color: #161616;
+	margin: 0;
+
+	.info-text {
+		padding: 5vh;
+		color: silver;
+		font-size: 23px;
+
+		@media screen and (max-width: 800px) {
+      		font-size: 14px;
+  		}
+	}
+}
